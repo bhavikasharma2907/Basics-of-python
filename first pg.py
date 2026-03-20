@@ -1,0 +1,5 @@
+print("Bhavika Sharmna")
+print(32)
+print("2"+"3")
+print(1-22)
+print(5*3)
